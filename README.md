@@ -2,10 +2,10 @@
 Repositório que servirá como 1º Checkpoint da disciplina de WebDev da FIAP
 
 # Membros do grupo:
-  Matheus Dantas Carvalho
-  Silas Alves dos Santos
-  Camila Mie Takara
-  Marco Antonio Andrade Gonçalves
+  Matheus Dantas Carvalho;
+  Silas Alves dos Santos;
+  Camila Mie Takara;
+  Marco Antonio Andrade Gonçalves;
   Rodrigo Bendazolli Leme
 
  # No projeto foi encontrado:
